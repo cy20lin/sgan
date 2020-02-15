@@ -1,0 +1,7 @@
+*.py[cd]
+**/__pycache__/
+models/
+datasets/
+env/
+.*
+!.gitignore
