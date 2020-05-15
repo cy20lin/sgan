@@ -29,7 +29,6 @@ name=ntut_library
     --gpu_num="${gpu_num}" \
     --delim="," \
     --d_type='local' \
-    --pred_len=8 \
     --encoder_h_dim_g=32 \
     --encoder_h_dim_d=64 \
     --decoder_h_dim=32 \
